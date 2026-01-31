@@ -1,6 +1,6 @@
-[deploy]
-startCommand = "node website/.next/standalone/server.js"
-healthCheckPath = "/"
+[source]
+src = "website"
 
-[build]
-buildCommand = "cd website && npm ci && npm run build"
+[deploy]
+startCommand = "node .next/standalone/server.js"
+healthCheckPath = "/"
