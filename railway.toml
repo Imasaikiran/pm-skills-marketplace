@@ -1,6 +1,3 @@
-[source]
-src = "website"
-
 [deploy]
 startCommand = "node .next/standalone/server.js"
 healthCheckPath = "/"
