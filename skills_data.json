@@ -1,0 +1,1462 @@
+[
+  {
+    "slug": "ai-cost-optimization",
+    "name": "AI Cost Optimization",
+    "description": "Manage costs for AI APIs, compute, and infrastructure",
+    "category": "AI PM",
+    "level": "Advanced",
+    "downloads": 15190,
+    "rating": 4.5,
+    "premium": false
+  },
+  {
+    "slug": "prompt-engineering-for-pms",
+    "name": "Prompt Engineering for PMs",
+    "description": "Design and optimize prompts for AI features",
+    "category": "AI PM",
+    "level": "Intermediate",
+    "downloads": 21661,
+    "rating": 4.4,
+    "premium": false
+  },
+  {
+    "slug": "ai-evals-testing",
+    "name": "AI Evals & Testing",
+    "description": "Systematically test and evaluate AI model outputs",
+    "category": "AI PM",
+    "level": "Beginner",
+    "downloads": 5764,
+    "rating": 4.5,
+    "premium": false
+  },
+  {
+    "slug": "github-copilot-pm",
+    "name": "GitHub Copilot for PMs",
+    "description": "Leverage AI coding assistants in product work",
+    "category": "AI PM",
+    "level": "Advanced",
+    "downloads": 13612,
+    "rating": 4.3,
+    "premium": false
+  },
+  {
+    "slug": "context-window-optimization",
+    "name": "Context Window Optimization",
+    "description": "Maximize AI effectiveness within token limits",
+    "category": "AI PM",
+    "level": "Intermediate",
+    "downloads": 18617,
+    "rating": 4.8,
+    "premium": false
+  },
+  {
+    "slug": "ai-agent-design",
+    "name": "AI Agent Design Patterns",
+    "description": "Design autonomous AI agents that accomplish tasks",
+    "category": "AI PM",
+    "level": "Beginner",
+    "downloads": 9286,
+    "rating": 4.7,
+    "premium": false
+  },
+  {
+    "slug": "ai-monitoring-observability",
+    "name": "AI Monitoring & Observability",
+    "description": "Monitor AI system performance and behavior",
+    "category": "AI PM",
+    "level": "Beginner",
+    "downloads": 10267,
+    "rating": 4.6,
+    "premium": false
+  },
+  {
+    "slug": "claude-api-integration",
+    "name": "Claude API Integration",
+    "description": "Build products using Claude API effectively",
+    "category": "AI PM",
+    "level": "Beginner",
+    "downloads": 13451,
+    "rating": 4.4,
+    "premium": false
+  },
+  {
+    "slug": "ai-safety-alignment",
+    "name": "AI Safety & Alignment",
+    "description": "Ensure AI systems are safe and aligned with user values",
+    "category": "AI PM",
+    "level": "Advanced",
+    "downloads": 23458,
+    "rating": 4.6,
+    "premium": false
+  },
+  {
+    "slug": "ai-agent-orchestration",
+    "name": "AI Agent Orchestration",
+    "description": "Design multi-agent AI systems and workflows",
+    "category": "AI PM",
+    "level": "Intermediate",
+    "downloads": 10172,
+    "rating": 4.7,
+    "premium": false
+  },
+  {
+    "slug": "multimodal-ai-products",
+    "name": "Multimodal AI Products",
+    "description": "Build products combining text, image, audio, video AI",
+    "category": "AI PM",
+    "level": "Beginner",
+    "downloads": 8228,
+    "rating": 4.4,
+    "premium": false
+  },
+  {
+    "slug": "ai-ux-design",
+    "name": "AI UX Design Patterns",
+    "description": "Design user experiences for AI-powered features",
+    "category": "AI PM",
+    "level": "Beginner",
+    "downloads": 15816,
+    "rating": 4.3,
+    "premium": false
+  },
+  {
+    "slug": "ai-recommendation-systems",
+    "name": "AI Recommendation Systems",
+    "description": "Design and optimize recommendation engines",
+    "category": "AI PM",
+    "level": "Beginner",
+    "downloads": 8873,
+    "rating": 5.0,
+    "premium": false
+  },
+  {
+    "slug": "machine-learning-basics",
+    "name": "Machine Learning Basics for PMs",
+    "description": "Understand ML fundamentals to manage AI products",
+    "category": "AI PM",
+    "level": "Intermediate",
+    "downloads": 19393,
+    "rating": 4.5,
+    "premium": false
+  },
+  {
+    "slug": "ai-ab-testing",
+    "name": "A/B Testing AI Features",
+    "description": "Experiment with AI features and measure impact",
+    "category": "AI PM",
+    "level": "Beginner",
+    "downloads": 9797,
+    "rating": 4.5,
+    "premium": false
+  },
+  {
+    "slug": "computer-vision-products",
+    "name": "Computer Vision Products",
+    "description": "Build products using image and video AI",
+    "category": "AI PM",
+    "level": "Beginner",
+    "downloads": 17166,
+    "rating": 4.2,
+    "premium": false
+  },
+  {
+    "slug": "chatbot-conversational-ai",
+    "name": "Chatbot & Conversational AI",
+    "description": "Build effective chatbots and conversational interfaces",
+    "category": "AI PM",
+    "level": "Beginner",
+    "downloads": 22292,
+    "rating": 4.3,
+    "premium": false
+  },
+  {
+    "slug": "ai-content-moderation",
+    "name": "AI Content Moderation",
+    "description": "Use AI for safe and effective content filtering",
+    "category": "AI PM",
+    "level": "Advanced",
+    "downloads": 6561,
+    "rating": 4.7,
+    "premium": false
+  },
+  {
+    "slug": "llm-product-management",
+    "name": "LLM Product Management",
+    "description": "Build products using Large Language Models like GPT, Claude, and Gemini",
+    "category": "AI PM",
+    "level": "Intermediate",
+    "downloads": 11573,
+    "rating": 4.7,
+    "premium": false
+  },
+  {
+    "slug": "ai-model-evaluation",
+    "name": "AI Model Evaluation",
+    "description": "Assess and measure AI model performance",
+    "category": "AI PM",
+    "level": "Intermediate",
+    "downloads": 19743,
+    "rating": 4.7,
+    "premium": false
+  },
+  {
+    "slug": "cursor-ai-workflows",
+    "name": "Cursor AI Workflows",
+    "description": "Optimize development workflows with Cursor AI",
+    "category": "AI PM",
+    "level": "Advanced",
+    "downloads": 14671,
+    "rating": 4.5,
+    "premium": false
+  },
+  {
+    "slug": "ai-tool-ecosystem",
+    "name": "AI Tool Ecosystem Strategy",
+    "description": "Navigate and choose AI tools (ChatGPT, Claude, Gemini, etc)",
+    "category": "AI PM",
+    "level": "Beginner",
+    "downloads": 5423,
+    "rating": 4.7,
+    "premium": false
+  },
+  {
+    "slug": "training-data-strategy",
+    "name": "Training Data Strategy",
+    "description": "Manage data collection and quality for AI models",
+    "category": "AI PM",
+    "level": "Beginner",
+    "downloads": 6789,
+    "rating": 4.4,
+    "premium": false
+  },
+  {
+    "slug": "ai-personalization",
+    "name": "AI Personalization",
+    "description": "Use AI for personalized user experiences",
+    "category": "AI PM",
+    "level": "Advanced",
+    "downloads": 24903,
+    "rating": 4.6,
+    "premium": false
+  },
+  {
+    "slug": "ai-ethics-governance",
+    "name": "AI Ethics & Governance",
+    "description": "Navigate ethical considerations and governance in AI products",
+    "category": "AI PM",
+    "level": "Advanced",
+    "downloads": 19566,
+    "rating": 4.9,
+    "premium": false
+  },
+  {
+    "slug": "prompt-libraries",
+    "name": "Building Prompt Libraries",
+    "description": "Create and maintain reusable prompt collections",
+    "category": "AI PM",
+    "level": "Intermediate",
+    "downloads": 18788,
+    "rating": 4.8,
+    "premium": false
+  },
+  {
+    "slug": "fine-tuning-strategy",
+    "name": "Model Fine-Tuning Strategy",
+    "description": "When and how to fine-tune AI models",
+    "category": "AI PM",
+    "level": "Intermediate",
+    "downloads": 24105,
+    "rating": 4.7,
+    "premium": false
+  },
+  {
+    "slug": "ai-hallucination-mitigation",
+    "name": "Mitigating AI Hallucinations",
+    "description": "Reduce and handle AI model hallucinations",
+    "category": "AI PM",
+    "level": "Advanced",
+    "downloads": 12976,
+    "rating": 4.9,
+    "premium": false
+  },
+  {
+    "slug": "generative-ai-products",
+    "name": "Generative AI Products",
+    "description": "Build products using generative AI (text, image, video, audio)",
+    "category": "AI PM",
+    "level": "Beginner",
+    "downloads": 10355,
+    "rating": 4.7,
+    "premium": false
+  },
+  {
+    "slug": "rag-systems",
+    "name": "RAG Systems (Retrieval-Augmented Generation)",
+    "description": "Build AI systems that combine retrieval with generation",
+    "category": "AI PM",
+    "level": "Advanced",
+    "downloads": 9026,
+    "rating": 4.5,
+    "premium": false
+  },
+  {
+    "slug": "ai-product-strategy",
+    "name": "AI Product Strategy",
+    "description": "Develop strategy for AI-powered products and features",
+    "category": "AI PM",
+    "level": "Intermediate",
+    "downloads": 15304,
+    "rating": 4.3,
+    "premium": false
+  },
+  {
+    "slug": "focus-groups",
+    "name": "Focus Groups",
+    "description": "Gather qualitative insights from groups",
+    "category": "Discovery & Research",
+    "level": "Advanced",
+    "downloads": 21838,
+    "rating": 4.9,
+    "premium": false
+  },
+  {
+    "slug": "solution-validation",
+    "name": "Solution Validation",
+    "description": "Test solutions before building them",
+    "category": "Discovery & Research",
+    "level": "Advanced",
+    "downloads": 22748,
+    "rating": 4.7,
+    "premium": false
+  },
+  {
+    "slug": "prototype-testing",
+    "name": "Prototype Testing",
+    "description": "Test concepts with low-fidelity prototypes",
+    "category": "Discovery & Research",
+    "level": "Intermediate",
+    "downloads": 17483,
+    "rating": 4.3,
+    "premium": false
+  },
+  {
+    "slug": "problem-validation",
+    "name": "Problem Validation",
+    "description": "Validate that problems are worth solving",
+    "category": "Discovery & Research",
+    "level": "Beginner",
+    "downloads": 6682,
+    "rating": 4.9,
+    "premium": false
+  },
+  {
+    "slug": "user-interviews",
+    "name": "User Interviews Skill",
+    "description": "Conduct effective user interviews to gather qualitative insights and validate product assumptions.",
+    "category": "Discovery & Research",
+    "level": "Advanced",
+    "downloads": 20235,
+    "rating": 4.3,
+    "premium": false
+  },
+  {
+    "slug": "conjoint-analysis",
+    "name": "Conjoint Analysis",
+    "description": "Understand feature preferences and trade-offs",
+    "category": "Discovery & Research",
+    "level": "Beginner",
+    "downloads": 19613,
+    "rating": 4.8,
+    "premium": false
+  },
+  {
+    "slug": "quantitative-vs-qualitative-research",
+    "name": "Quantitative vs Qualitative Research",
+    "description": "Understanding when and how to use quantitative research (measuring what and how much) versus qualitative research (understanding why and how) is essential for product managers. Each approach provides ",
+    "category": "Discovery & Research",
+    "level": "Advanced",
+    "downloads": 18853,
+    "rating": 4.7,
+    "premium": false
+  },
+  {
+    "slug": "survey-design",
+    "name": "Survey Design",
+    "description": "Survey design is the systematic process of creating questionnaires that collect reliable, valid, and actionable data from users. Well-designed surveys minimize bias, maximize response rates, and provi",
+    "category": "Discovery & Research",
+    "level": "Beginner",
+    "downloads": 22609,
+    "rating": 4.4,
+    "premium": false
+  },
+  {
+    "slug": "customer-journey-mapping",
+    "name": "Customer Journey Mapping",
+    "description": "Customer Journey Mapping is a visualization technique that illustrates the complete experience a customer has with your product or service across all touchpoints, channels, and time periods, revealing",
+    "category": "Discovery & Research",
+    "level": "Intermediate",
+    "downloads": 5388,
+    "rating": 4.3,
+    "premium": false
+  },
+  {
+    "slug": "market-research",
+    "name": "Market Research Methods",
+    "description": "Research markets, trends, and opportunities",
+    "category": "Discovery & Research",
+    "level": "Intermediate",
+    "downloads": 20239,
+    "rating": 4.4,
+    "premium": false
+  },
+  {
+    "slug": "competitive-analysis",
+    "name": "Competitive Analysis",
+    "description": "Competitive analysis is a systematic evaluation of your competitors' products, strategies, strengths, and weaknesses to inform your product decisions and identify market opportunities.",
+    "category": "Discovery & Research",
+    "level": "Beginner",
+    "downloads": 19854,
+    "rating": 5.0,
+    "premium": false
+  },
+  {
+    "slug": "jobs-to-be-done",
+    "name": "Jobs-to-Be-Done Framework",
+    "description": "Jobs-to-Be-Done (JTBD) is a framework for understanding customer motivations by focusing on the \"job\" they're trying to accomplish rather than demographics or product features.",
+    "category": "Discovery & Research",
+    "level": "Beginner",
+    "downloads": 19458,
+    "rating": 4.6,
+    "premium": false
+  },
+  {
+    "slug": "diary-studies",
+    "name": "Diary Studies",
+    "description": "Collect longitudinal user data",
+    "category": "Discovery & Research",
+    "level": "Intermediate",
+    "downloads": 10955,
+    "rating": 4.3,
+    "premium": false
+  },
+  {
+    "slug": "ethnographic-research",
+    "name": "Ethnographic Research",
+    "description": "Observe users in their natural environment",
+    "category": "Discovery & Research",
+    "level": "Advanced",
+    "downloads": 15169,
+    "rating": 4.4,
+    "premium": false
+  },
+  {
+    "slug": "error-prevention-design",
+    "name": "Error Prevention in UX",
+    "description": "Design to prevent user errors before they happen",
+    "category": "UX & Design",
+    "level": "Beginner",
+    "downloads": 10344,
+    "rating": 4.9,
+    "premium": false
+  },
+  {
+    "slug": "information-architecture",
+    "name": "Information Architecture",
+    "description": "Organize content and features for intuitive navigation and findability",
+    "category": "UX & Design",
+    "level": "Intermediate",
+    "downloads": 11582,
+    "rating": 4.5,
+    "premium": false
+  },
+  {
+    "slug": "design-critique",
+    "name": "Participating in Design Critique",
+    "description": "Give and receive effective design feedback",
+    "category": "UX & Design",
+    "level": "Beginner",
+    "downloads": 11794,
+    "rating": 4.6,
+    "premium": false
+  },
+  {
+    "slug": "accessibility-basics",
+    "name": "Accessibility Basics for PMs",
+    "description": "Ensure products are usable by people with disabilities",
+    "category": "UX & Design",
+    "level": "Intermediate",
+    "downloads": 15086,
+    "rating": 4.9,
+    "premium": false
+  },
+  {
+    "slug": "interaction-design-patterns",
+    "name": "Interaction Design Patterns",
+    "description": "Common UI patterns and when to use them",
+    "category": "UX & Design",
+    "level": "Beginner",
+    "downloads": 5422,
+    "rating": 4.3,
+    "premium": false
+  },
+  {
+    "slug": "user-persona-development",
+    "name": "User Persona Development",
+    "description": "Create detailed, research-based representations of your target users to guide product decisions and maintain user-centric focus.",
+    "category": "UX & Design",
+    "level": "Intermediate",
+    "downloads": 6034,
+    "rating": 4.7,
+    "premium": false
+  },
+  {
+    "slug": "usability-testing",
+    "name": "Usability Testing",
+    "description": "Test designs with real users to identify UX issues before development",
+    "category": "UX & Design",
+    "level": "Intermediate",
+    "downloads": 13825,
+    "rating": 4.2,
+    "premium": false
+  },
+  {
+    "slug": "empty-states",
+    "name": "Designing Empty States",
+    "description": "Turn empty screens into opportunities",
+    "category": "UX & Design",
+    "level": "Intermediate",
+    "downloads": 5164,
+    "rating": 4.9,
+    "premium": false
+  },
+  {
+    "slug": "cognitive-load-reduction",
+    "name": "Reducing Cognitive Load",
+    "description": "Simplify interfaces by reducing mental effort",
+    "category": "UX & Design",
+    "level": "Beginner",
+    "downloads": 13508,
+    "rating": 4.5,
+    "premium": false
+  },
+  {
+    "slug": "responsive-design",
+    "name": "Responsive Design Strategy",
+    "description": "Ensure great experience across devices",
+    "category": "UX & Design",
+    "level": "Intermediate",
+    "downloads": 18684,
+    "rating": 4.4,
+    "premium": false
+  },
+  {
+    "slug": "wireframing-basics",
+    "name": "Wireframing for PMs",
+    "description": "Create low-fidelity wireframes to communicate ideas",
+    "category": "UX & Design",
+    "level": "Beginner",
+    "downloads": 11437,
+    "rating": 4.8,
+    "premium": false
+  },
+  {
+    "slug": "user-flow-mapping",
+    "name": "User Flow Mapping",
+    "description": "Design and optimize user flows through your product",
+    "category": "UX & Design",
+    "level": "Advanced",
+    "downloads": 21554,
+    "rating": 4.2,
+    "premium": false
+  },
+  {
+    "slug": "mobile-first-design",
+    "name": "Mobile-First Design Principles",
+    "description": "Design for mobile devices first",
+    "category": "UX & Design",
+    "level": "Advanced",
+    "downloads": 12439,
+    "rating": 4.5,
+    "premium": false
+  },
+  {
+    "slug": "microinteractions",
+    "name": "Designing Microinteractions",
+    "description": "Design delightful small interactions",
+    "category": "UX & Design",
+    "level": "Beginner",
+    "downloads": 23349,
+    "rating": 4.8,
+    "premium": false
+  },
+  {
+    "slug": "aarrr-metrics",
+    "name": "AARRR Metrics (Pirate Metrics)",
+    "description": "AARRR is a framework for tracking key metrics across the customer lifecycle: Acquisition, Activation, Retention, Revenue, and Referral.",
+    "category": "Metrics & Analytics",
+    "level": "Advanced",
+    "downloads": 9036,
+    "rating": 4.6,
+    "premium": false
+  },
+  {
+    "slug": "retention-curve-analysis",
+    "name": "Retention Curve Analysis",
+    "description": "Read and act on retention curves",
+    "category": "Metrics & Analytics",
+    "level": "Advanced",
+    "downloads": 11155,
+    "rating": 4.8,
+    "premium": false
+  },
+  {
+    "slug": "funnel-analysis",
+    "name": "Funnel Analysis",
+    "description": "Optimize conversion funnels systematically",
+    "category": "Metrics & Analytics",
+    "level": "Intermediate",
+    "downloads": 18174,
+    "rating": 4.6,
+    "premium": false
+  },
+  {
+    "slug": "dashboard-design",
+    "name": "Dashboard Design",
+    "description": "Create effective product dashboards",
+    "category": "Metrics & Analytics",
+    "level": "Intermediate",
+    "downloads": 15206,
+    "rating": 4.7,
+    "premium": false
+  },
+  {
+    "slug": "statistical-significance",
+    "name": "Statistical Significance",
+    "description": "Understand and apply statistics to product decisions",
+    "category": "Metrics & Analytics",
+    "level": "Intermediate",
+    "downloads": 24892,
+    "rating": 4.6,
+    "premium": false
+  },
+  {
+    "slug": "analytics-instrumentation",
+    "name": "Analytics Instrumentation",
+    "description": "Implement tracking for product analytics",
+    "category": "Metrics & Analytics",
+    "level": "Advanced",
+    "downloads": 8546,
+    "rating": 4.3,
+    "premium": false
+  },
+  {
+    "slug": "data-driven-decision-making",
+    "name": "Data-Driven Decision Making",
+    "description": "Data-driven decision making is the practice of basing strategic and tactical product decisions on data analysis and interpretation rather than intuition alone. It combines quantitative metrics, qualit",
+    "category": "Metrics & Analytics",
+    "level": "Intermediate",
+    "downloads": 6354,
+    "rating": 4.5,
+    "premium": false
+  },
+  {
+    "slug": "north-star-metric",
+    "name": "North Star Metric",
+    "description": "Define and track your product's core success metric",
+    "category": "Metrics & Analytics",
+    "level": "Advanced",
+    "downloads": 5740,
+    "rating": 4.5,
+    "premium": false
+  },
+  {
+    "slug": "sql-for-pms",
+    "name": "SQL for Product Managers",
+    "description": "Query databases to answer product questions",
+    "category": "Metrics & Analytics",
+    "level": "Intermediate",
+    "downloads": 12125,
+    "rating": 4.3,
+    "premium": false
+  },
+  {
+    "slug": "ab-testing",
+    "name": "A/B Testing",
+    "description": "Design and analyze experiments scientifically",
+    "category": "Metrics & Analytics",
+    "level": "Intermediate",
+    "downloads": 20582,
+    "rating": 4.7,
+    "premium": false
+  },
+  {
+    "slug": "cohort-analysis",
+    "name": "Cohort Analysis",
+    "description": "Analyze user behavior by cohorts over time",
+    "category": "Metrics & Analytics",
+    "level": "Intermediate",
+    "downloads": 16237,
+    "rating": 4.5,
+    "premium": false
+  },
+  {
+    "slug": "conversion-funnel-optimization",
+    "name": "Conversion Funnel Optimization",
+    "description": "Systematically improve conversion rates",
+    "category": "Metrics & Analytics",
+    "level": "Intermediate",
+    "downloads": 11632,
+    "rating": 4.4,
+    "premium": false
+  },
+  {
+    "slug": "story-point-estimation",
+    "name": "Story Point Estimation",
+    "description": "Estimate work using story points",
+    "category": "Agile & Execution",
+    "level": "Beginner",
+    "downloads": 15093,
+    "rating": 4.9,
+    "premium": false
+  },
+  {
+    "slug": "user-story-writing",
+    "name": "Writing User Stories",
+    "description": "Craft clear, testable user stories",
+    "category": "Agile & Execution",
+    "level": "Advanced",
+    "downloads": 5586,
+    "rating": 4.3,
+    "premium": false
+  },
+  {
+    "slug": "sprint-retrospective",
+    "name": "Sprint Retrospective",
+    "description": "Facilitate productive retros that drive continuous improvement",
+    "category": "Agile & Execution",
+    "level": "Beginner",
+    "downloads": 13422,
+    "rating": 4.9,
+    "premium": false
+  },
+  {
+    "slug": "sprint-planning",
+    "name": "Sprint Planning",
+    "description": "Collaborative process where the team plans work for the upcoming sprint, defines the sprint goal, and commits to deliverables.",
+    "category": "Agile & Execution",
+    "level": "Beginner",
+    "downloads": 22768,
+    "rating": 4.7,
+    "premium": false
+  },
+  {
+    "slug": "acceptance-criteria",
+    "name": "Acceptance Criteria",
+    "description": "Define done with clear acceptance criteria",
+    "category": "Agile & Execution",
+    "level": "Intermediate",
+    "downloads": 7018,
+    "rating": 4.7,
+    "premium": false
+  },
+  {
+    "slug": "kanban-for-pms",
+    "name": "Kanban for Product Managers",
+    "description": "Use Kanban boards for continuous delivery",
+    "category": "Agile & Execution",
+    "level": "Beginner",
+    "downloads": 9712,
+    "rating": 5.0,
+    "premium": false
+  },
+  {
+    "slug": "backlog-refinement",
+    "name": "Backlog Refinement (Grooming)",
+    "description": "Ongoing process of reviewing, clarifying, estimating, and prioritizing product backlog items to ensure they're ready for sprint planning.",
+    "category": "Agile & Execution",
+    "level": "Advanced",
+    "downloads": 9677,
+    "rating": 4.3,
+    "premium": false
+  },
+  {
+    "slug": "pair-programming-with-pm",
+    "name": "Pairing with Engineers",
+    "description": "Collaborate closely with engineering during development",
+    "category": "Agile & Execution",
+    "level": "Intermediate",
+    "downloads": 7649,
+    "rating": 4.2,
+    "premium": false
+  },
+  {
+    "slug": "velocity-tracking",
+    "name": "Velocity Tracking",
+    "description": "Track and improve team velocity",
+    "category": "Agile & Execution",
+    "level": "Intermediate",
+    "downloads": 21348,
+    "rating": 4.8,
+    "premium": false
+  },
+  {
+    "slug": "release-notes-writing",
+    "name": "Release Notes Writing",
+    "description": "Write clear, engaging release notes",
+    "category": "Agile & Execution",
+    "level": "Advanced",
+    "downloads": 6187,
+    "rating": 4.4,
+    "premium": false
+  },
+  {
+    "slug": "spike-stories",
+    "name": "Spike Stories",
+    "description": "Time-boxed research to reduce uncertainty",
+    "category": "Agile & Execution",
+    "level": "Intermediate",
+    "downloads": 8943,
+    "rating": 4.7,
+    "premium": false
+  },
+  {
+    "slug": "daily-standup-best-practices",
+    "name": "Daily Standup Best Practices",
+    "description": "Run effective daily standups that keep team aligned without wasting time",
+    "category": "Agile & Execution",
+    "level": "Advanced",
+    "downloads": 10918,
+    "rating": 4.8,
+    "premium": false
+  },
+  {
+    "slug": "definition-of-done",
+    "name": "Definition of Done",
+    "description": "Establish clear completion criteria for user stories and features",
+    "category": "Agile & Execution",
+    "level": "Intermediate",
+    "downloads": 8091,
+    "rating": 4.4,
+    "premium": false
+  },
+  {
+    "slug": "working-with-engineers",
+    "name": "Working Effectively with Engineers",
+    "description": "Build strong PM-Engineering partnerships for successful product delivery",
+    "category": "Technical Collaboration",
+    "level": "Beginner",
+    "downloads": 12711,
+    "rating": 4.7,
+    "premium": false
+  },
+  {
+    "slug": "database-basics",
+    "name": "Database Basics for PMs",
+    "description": "Understand data models and databases",
+    "category": "Technical Collaboration",
+    "level": "Intermediate",
+    "downloads": 15975,
+    "rating": 4.8,
+    "premium": false
+  },
+  {
+    "slug": "microservices-architecture",
+    "name": "Microservices Architecture",
+    "description": "Understanding distributed systems",
+    "category": "Technical Collaboration",
+    "level": "Intermediate",
+    "downloads": 5247,
+    "rating": 5.0,
+    "premium": false
+  },
+  {
+    "slug": "cicd-pipeline",
+    "name": "CI/CD Pipelines",
+    "description": "Understand continuous integration and deployment",
+    "category": "Technical Collaboration",
+    "level": "Advanced",
+    "downloads": 10735,
+    "rating": 4.6,
+    "premium": false
+  },
+  {
+    "slug": "cloud-infrastructure",
+    "name": "Cloud Infrastructure Concepts",
+    "description": "Understand modern cloud architectures",
+    "category": "Technical Collaboration",
+    "level": "Intermediate",
+    "downloads": 8933,
+    "rating": 4.8,
+    "premium": false
+  },
+  {
+    "slug": "technical-debt-management",
+    "name": "Technical Debt Management",
+    "description": "Balance technical debt reduction with feature development",
+    "category": "Technical Collaboration",
+    "level": "Advanced",
+    "downloads": 24046,
+    "rating": 5.0,
+    "premium": false
+  },
+  {
+    "slug": "security-fundamentals",
+    "name": "Security Fundamentals for PMs",
+    "description": "Security considerations in product development",
+    "category": "Technical Collaboration",
+    "level": "Beginner",
+    "downloads": 7041,
+    "rating": 4.8,
+    "premium": false
+  },
+  {
+    "slug": "architecture-decisions",
+    "name": "Participating in Architecture Decisions",
+    "description": "Contribute product perspective to technical architecture discussions",
+    "category": "Technical Collaboration",
+    "level": "Intermediate",
+    "downloads": 22416,
+    "rating": 4.2,
+    "premium": false
+  },
+  {
+    "slug": "reading-code",
+    "name": "Reading Code as a PM",
+    "description": "Understand code enough to have technical conversations",
+    "category": "Technical Collaboration",
+    "level": "Beginner",
+    "downloads": 21311,
+    "rating": 4.5,
+    "premium": false
+  },
+  {
+    "slug": "debugging-with-engineers",
+    "name": "Debugging with Engineers",
+    "description": "Help troubleshoot issues effectively",
+    "category": "Technical Collaboration",
+    "level": "Beginner",
+    "downloads": 8484,
+    "rating": 4.5,
+    "premium": false
+  },
+  {
+    "slug": "api-product-management",
+    "name": "API Product Management",
+    "description": "Manage APIs as products, designing developer experience, documentation, and adoption strategies for technical audiences.",
+    "category": "Technical Collaboration",
+    "level": "Advanced",
+    "downloads": 11288,
+    "rating": 4.7,
+    "premium": false
+  },
+  {
+    "slug": "git-workflows-for-pms",
+    "name": "Git Workflows for PMs",
+    "description": "Understand version control to collaborate with engineers",
+    "category": "Technical Collaboration",
+    "level": "Intermediate",
+    "downloads": 17078,
+    "rating": 5.0,
+    "premium": false
+  },
+  {
+    "slug": "product-market-fit",
+    "name": "Measuring Product-Market Fit",
+    "description": "Assess and improve product-market fit systematically",
+    "category": "Strategy & Vision",
+    "level": "Beginner",
+    "downloads": 13164,
+    "rating": 4.6,
+    "premium": false
+  },
+  {
+    "slug": "ansoff-matrix",
+    "name": "Ansoff Matrix",
+    "description": "Strategic framework for growth opportunities",
+    "category": "Strategy & Vision",
+    "level": "Beginner",
+    "downloads": 16727,
+    "rating": 4.3,
+    "premium": false
+  },
+  {
+    "slug": "porter-five-forces",
+    "name": "Porter's Five Forces",
+    "description": "Analyze industry competition and market attractiveness",
+    "category": "Strategy & Vision",
+    "level": "Advanced",
+    "downloads": 11325,
+    "rating": 4.2,
+    "premium": false
+  },
+  {
+    "slug": "business-model-canvas",
+    "name": "Business Model Canvas",
+    "description": "Map out business model components for strategic clarity",
+    "category": "Strategy & Vision",
+    "level": "Beginner",
+    "downloads": 23517,
+    "rating": 4.6,
+    "premium": false
+  },
+  {
+    "slug": "product-vision-creation",
+    "name": "Creating a Product Vision",
+    "description": "Craft compelling product visions that inspire teams and guide strategy",
+    "category": "Strategy & Vision",
+    "level": "Advanced",
+    "downloads": 13779,
+    "rating": 4.9,
+    "premium": false
+  },
+  {
+    "slug": "competitive-analysis-framework",
+    "name": "Competitive Analysis Framework",
+    "description": "Systematically analyze competitors to inform product strategy",
+    "category": "Strategy & Vision",
+    "level": "Beginner",
+    "downloads": 23277,
+    "rating": 4.8,
+    "premium": false
+  },
+  {
+    "slug": "lean-canvas",
+    "name": "Lean Canvas",
+    "description": "One-page business plan for startups and new products",
+    "category": "Strategy & Vision",
+    "level": "Advanced",
+    "downloads": 14507,
+    "rating": 4.9,
+    "premium": false
+  },
+  {
+    "slug": "moat-building",
+    "name": "Building Competitive Moats",
+    "description": "Create sustainable competitive advantages",
+    "category": "Strategy & Vision",
+    "level": "Advanced",
+    "downloads": 14200,
+    "rating": 4.6,
+    "premium": false
+  },
+  {
+    "slug": "value-proposition-design",
+    "name": "Value Proposition Design",
+    "description": "Value Proposition Design is a framework for creating, testing, and refining compelling value propositions that match customer jobs, pains, and gains with your product's features, pain relievers, and g",
+    "category": "Strategy & Vision",
+    "level": "Advanced",
+    "downloads": 8976,
+    "rating": 4.4,
+    "premium": false
+  },
+  {
+    "slug": "product-vision-statement",
+    "name": "Product Vision Statement",
+    "description": "A Product Vision Statement is a concise, inspirational description of what your product aims to achieve in the long term. It serves as a north star for product decisions and aligns the team around a c",
+    "category": "Strategy & Vision",
+    "level": "Advanced",
+    "downloads": 16181,
+    "rating": 4.4,
+    "premium": false
+  },
+  {
+    "slug": "launch-strategy",
+    "name": "Product Launch Strategy",
+    "description": "Plan and execute successful product launches",
+    "category": "Go-to-Market",
+    "level": "Beginner",
+    "downloads": 23568,
+    "rating": 4.8,
+    "premium": false
+  },
+  {
+    "slug": "positioning-messaging",
+    "name": "Product Positioning & Messaging",
+    "description": "Craft clear positioning and compelling messaging",
+    "category": "Go-to-Market",
+    "level": "Advanced",
+    "downloads": 8867,
+    "rating": 4.2,
+    "premium": false
+  },
+  {
+    "slug": "customer-acquisition",
+    "name": "Customer Acquisition Strategy",
+    "description": "Build scalable customer acquisition channels",
+    "category": "Go-to-Market",
+    "level": "Intermediate",
+    "downloads": 16733,
+    "rating": 4.9,
+    "premium": false
+  },
+  {
+    "slug": "partnership-strategy",
+    "name": "Partnership Strategy",
+    "description": "Identify and execute strategic partnerships",
+    "category": "Go-to-Market",
+    "level": "Intermediate",
+    "downloads": 14295,
+    "rating": 4.9,
+    "premium": false
+  },
+  {
+    "slug": "viral-loop-design",
+    "name": "Viral Loop Design",
+    "description": "A viral loop is a self-reinforcing cycle where existing users drive new user acquisition through the natural use of your product. Each new user has the potential to bring in more users, creating expon",
+    "category": "Go-to-Market",
+    "level": "Intermediate",
+    "downloads": 15048,
+    "rating": 4.4,
+    "premium": false
+  },
+  {
+    "slug": "pricing-strategy",
+    "name": "Pricing Strategy",
+    "description": "Determine optimal pricing for your product",
+    "category": "Go-to-Market",
+    "level": "Advanced",
+    "downloads": 19119,
+    "rating": 4.7,
+    "premium": false
+  },
+  {
+    "slug": "beta-testing-program",
+    "name": "Beta Testing Program",
+    "description": "Design and run effective beta programs",
+    "category": "Go-to-Market",
+    "level": "Intermediate",
+    "downloads": 21717,
+    "rating": 5.0,
+    "premium": false
+  },
+  {
+    "slug": "sales-enablement",
+    "name": "Sales Enablement for PMs",
+    "description": "Equip sales team to sell your product effectively",
+    "category": "Go-to-Market",
+    "level": "Intermediate",
+    "downloads": 16192,
+    "rating": 5.0,
+    "premium": false
+  },
+  {
+    "slug": "growth-hacking-tactics",
+    "name": "Growth Hacking Tactics",
+    "description": "Growth hacking is a data-driven approach to rapid experimentation across marketing, product, and distribution channels to identify the most efficient ways to grow a business. It combines creativity, a",
+    "category": "Go-to-Market",
+    "level": "Intermediate",
+    "downloads": 20568,
+    "rating": 4.2,
+    "premium": false
+  },
+  {
+    "slug": "product-led-growth-strategy",
+    "name": "Product-Led Growth Strategy",
+    "description": "Product-Led Growth (PLG) is a go-to-market strategy where the product itself is the primary driver of customer acquisition, conversion, and expansion. Users can experience and extract value from the p",
+    "category": "Go-to-Market",
+    "level": "Beginner",
+    "downloads": 24663,
+    "rating": 4.6,
+    "premium": false
+  },
+  {
+    "slug": "nps-program",
+    "name": "Net Promoter Score Program",
+    "description": "Implement and leverage NPS for product insights",
+    "category": "Customer Success",
+    "level": "Intermediate",
+    "downloads": 16611,
+    "rating": 4.9,
+    "premium": false
+  },
+  {
+    "slug": "customer-health-scoring",
+    "name": "Customer Health Scoring",
+    "description": "Predict and prevent churn with health scores",
+    "category": "Customer Success",
+    "level": "Intermediate",
+    "downloads": 6400,
+    "rating": 4.9,
+    "premium": false
+  },
+  {
+    "slug": "product-documentation",
+    "name": "Product Documentation Skill",
+    "description": "Create comprehensive, user-friendly product documentation that enables users to understand, adopt, and maximize value from your product. Effective documentation reduces support burden, accelerates onb",
+    "category": "Customer Success",
+    "level": "Intermediate",
+    "downloads": 16967,
+    "rating": 4.5,
+    "premium": false
+  },
+  {
+    "slug": "help-center-creation",
+    "name": "Help Center Creation Skill",
+    "description": "Design and build a comprehensive self-service help center that empowers users to find answers quickly, reduces support burden, and improves customer satisfaction. A well-structured help center is ofte",
+    "category": "Customer Success",
+    "level": "Advanced",
+    "downloads": 16418,
+    "rating": 4.4,
+    "premium": false
+  },
+  {
+    "slug": "feature-adoption",
+    "name": "Driving Feature Adoption",
+    "description": "Increase adoption of new features",
+    "category": "Customer Success",
+    "level": "Intermediate",
+    "downloads": 10667,
+    "rating": 4.9,
+    "premium": false
+  },
+  {
+    "slug": "customer-education",
+    "name": "Customer Education Strategy",
+    "description": "Build education programs that drive product success",
+    "category": "Customer Success",
+    "level": "Advanced",
+    "downloads": 11741,
+    "rating": 4.4,
+    "premium": false
+  },
+  {
+    "slug": "onboarding-optimization",
+    "name": "User Onboarding Optimization",
+    "description": "Design onboarding flows that activate users",
+    "category": "Customer Success",
+    "level": "Advanced",
+    "downloads": 15000,
+    "rating": 4.9,
+    "premium": false
+  },
+  {
+    "slug": "customer-feedback-loops",
+    "name": "Customer Feedback Loops",
+    "description": "Build systems to gather and act on customer feedback",
+    "category": "Customer Success",
+    "level": "Beginner",
+    "downloads": 17978,
+    "rating": 4.5,
+    "premium": false
+  },
+  {
+    "slug": "weighted-scoring",
+    "name": "Weighted Scoring Model",
+    "description": "Multi-criteria decision analysis for complex trade-offs",
+    "category": "Prioritization",
+    "level": "Advanced",
+    "downloads": 13952,
+    "rating": 4.8,
+    "premium": false
+  },
+  {
+    "slug": "moscow-method",
+    "name": "MoSCoW Method",
+    "description": "Prioritize using Must/Should/Could/Won't framework",
+    "category": "Prioritization",
+    "level": "Intermediate",
+    "downloads": 8133,
+    "rating": 4.8,
+    "premium": false
+  },
+  {
+    "slug": "buy-a-feature",
+    "name": "Buy a Feature",
+    "description": "Collaborative prioritization exercise with stakeholders",
+    "category": "Prioritization",
+    "level": "Advanced",
+    "downloads": 21810,
+    "rating": 4.7,
+    "premium": false
+  },
+  {
+    "slug": "kano-model",
+    "name": "Kano Model",
+    "description": "Prioritize features by customer satisfaction impact",
+    "category": "Prioritization",
+    "level": "Advanced",
+    "downloads": 18093,
+    "rating": 4.2,
+    "premium": false
+  },
+  {
+    "slug": "value-vs-effort",
+    "name": "Value vs Effort Matrix",
+    "description": "Simple 2x2 matrix for quick prioritization",
+    "category": "Prioritization",
+    "level": "Advanced",
+    "downloads": 6403,
+    "rating": 4.9,
+    "premium": false
+  },
+  {
+    "slug": "opportunity-scoring",
+    "name": "Opportunity Scoring",
+    "description": "Prioritize based on importance and satisfaction gaps",
+    "category": "Prioritization",
+    "level": "Beginner",
+    "downloads": 17878,
+    "rating": 4.3,
+    "premium": false
+  },
+  {
+    "slug": "rice-framework",
+    "name": "RICE Prioritization Framework",
+    "description": "RICE is a scoring model to prioritize features and initiatives based on four factors: Reach, Impact, Confidence, and Effort.",
+    "category": "Prioritization",
+    "level": "Intermediate",
+    "downloads": 13511,
+    "rating": 4.8,
+    "premium": false
+  },
+  {
+    "slug": "networking-for-pms",
+    "name": "Networking for Product Managers",
+    "description": "Build professional network in product",
+    "category": "Career & Leadership",
+    "level": "Advanced",
+    "downloads": 11802,
+    "rating": 4.5,
+    "premium": false
+  },
+  {
+    "slug": "ic-vs-management",
+    "name": "IC vs Management Track",
+    "description": "Choose between individual contributor and management",
+    "category": "Career & Leadership",
+    "level": "Beginner",
+    "downloads": 18400,
+    "rating": 4.4,
+    "premium": false
+  },
+  {
+    "slug": "building-pm-skills",
+    "name": "Building PM Skills",
+    "description": "Develop core product management competencies",
+    "category": "Career & Leadership",
+    "level": "Advanced",
+    "downloads": 7163,
+    "rating": 4.5,
+    "premium": false
+  },
+  {
+    "slug": "product-manager-interview-prep",
+    "name": "Product Manager Interview Prep",
+    "description": "Comprehensive guide to preparing for and succeeding in product manager interviews, covering all major question types and evaluation criteria.",
+    "category": "Career & Leadership",
+    "level": "Beginner",
+    "downloads": 23386,
+    "rating": 4.3,
+    "premium": false
+  },
+  {
+    "slug": "personal-branding",
+    "name": "Personal Branding for PMs",
+    "description": "Build your reputation and thought leadership",
+    "category": "Career & Leadership",
+    "level": "Advanced",
+    "downloads": 14966,
+    "rating": 4.4,
+    "premium": false
+  },
+  {
+    "slug": "pm-career-paths",
+    "name": "PM Career Paths",
+    "description": "Navigate product management career progression",
+    "category": "Career & Leadership",
+    "level": "Advanced",
+    "downloads": 9322,
+    "rating": 4.6,
+    "premium": false
+  },
+  {
+    "slug": "speaking-writing",
+    "name": "Public Speaking & Writing",
+    "description": "Share your product insights effectively",
+    "category": "Career & Leadership",
+    "level": "Beginner",
+    "downloads": 21352,
+    "rating": 4.5,
+    "premium": false
+  },
+  {
+    "slug": "first-90-days-as-pm",
+    "name": "First 90 Days as a Product Manager",
+    "description": "Structured approach to succeeding in your first three months as a new PM, building relationships, understanding context, and delivering early wins.",
+    "category": "Career & Leadership",
+    "level": "Advanced",
+    "downloads": 22231,
+    "rating": 4.4,
+    "premium": false
+  },
+  {
+    "slug": "now-next-later-roadmap",
+    "name": "Now-Next-Later Roadmap",
+    "description": "Build flexible, outcome-focused roadmaps that communicate priorities without rigid timelines",
+    "category": "Roadmapping",
+    "level": "Intermediate",
+    "downloads": 21496,
+    "rating": 4.9,
+    "premium": false
+  },
+  {
+    "slug": "okr-based-roadmapping",
+    "name": "OKR-Based Roadmapping",
+    "description": "Align roadmap initiatives with company objectives and key results for strategic focus",
+    "category": "Roadmapping",
+    "level": "Intermediate",
+    "downloads": 16108,
+    "rating": 5.0,
+    "premium": false
+  },
+  {
+    "slug": "theme-based-roadmap",
+    "name": "Theme-Based Roadmap",
+    "description": "Organize roadmap around strategic themes instead of features for better stakeholder communication",
+    "category": "Roadmapping",
+    "level": "Advanced",
+    "downloads": 16139,
+    "rating": 4.6,
+    "premium": false
+  },
+  {
+    "slug": "managing-up",
+    "name": "Managing Up",
+    "description": "Build effective working relationship with your manager",
+    "category": "Stakeholder Management",
+    "level": "Advanced",
+    "downloads": 15563,
+    "rating": 4.5,
+    "premium": false
+  },
+  {
+    "slug": "cross-functional-collaboration",
+    "name": "Cross-Functional Collaboration",
+    "description": "Work effectively across teams to ship products",
+    "category": "Stakeholder Management",
+    "level": "Intermediate",
+    "downloads": 20491,
+    "rating": 4.4,
+    "premium": false
+  },
+  {
+    "slug": "stakeholder-communication",
+    "name": "Stakeholder Communication",
+    "description": "Effectively communicate with stakeholders to align on goals, manage expectations, gather input, and build support for product decisions.",
+    "category": "Stakeholder Management",
+    "level": "Beginner",
+    "downloads": 9437,
+    "rating": 4.4,
+    "premium": false
+  },
+  {
+    "slug": "executive-presentations",
+    "name": "Executive Presentations",
+    "description": "Present to executives effectively with clarity, brevity, and impact",
+    "category": "Stakeholder Management",
+    "level": "Advanced",
+    "downloads": 14525,
+    "rating": 4.8,
+    "premium": false
+  }
+]

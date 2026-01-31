@@ -1,0 +1,24 @@
+===============================================
+PUSH TO GITHUB - COPY THESE COMMANDS
+===============================================
+
+After creating your GitHub repository, copy and run these commands:
+
+1. Navigate to project:
+   cd "/Users/saikiran/Desktop/Claud Workspace/pm-skills-marketplace"
+
+2. Add remote (REPLACE YOUR_USERNAME):
+   git remote add origin https://github.com/YOUR_USERNAME/pm-skills-marketplace.git
+
+3. Push code:
+   git branch -M main
+   git push -u origin main
+
+===============================================
+
+Repository name: pm-skills-marketplace
+Description: Product Management Skills Marketplace - Claude Code compatible skills
+
+===============================================
+
+Once pushed successfully, let me know and I'll help with Vercel deployment!
